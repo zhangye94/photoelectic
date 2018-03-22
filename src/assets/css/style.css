@@ -1,0 +1,71 @@
+.page-container {
+  margin: 120px auto 0 auto;
+  width: 650px;
+}
+.login-h1 {
+  font-size: 36px;
+  font-weight: 700;
+  text-shadow: 0 1px 4px rgba(0,0,0,.2);
+  color: #fff;
+}
+.connect {
+  width: 800px;
+  margin: 40px auto 0 auto;
+  font-size: 14px;
+  text-shadow: 0 1px 3px rgba(0,0,0,.2);
+}
+.connect p{
+  position:relative;
+  color: #fff;
+	left:-140%;
+	top:0
+}
+.connect a {
+  display: inline-block;
+  width: 32px;
+  height: 35px;
+  margin-top: 15px;
+  -o-transition: all .2s;
+  -moz-transition: all .2s;
+  -webkit-transition: all .2s;
+  -ms-transition: all .2s;
+}
+.alert{
+	width:310px;
+	height:200px;
+	background:#000;
+	position:absolute;
+	top:-40%;
+	left:50%;
+	margin: -101px 0 0 -151px;
+}
+.alert h2{
+	height:40px;
+	padding-left:8px;
+	font-size:14px;
+	background:#FF0543;
+	text-align:left;
+	line-height:40px;
+}
+.alert .alert_con{
+	background:#fff;
+	height:160px;
+}
+.alert .alert_con p{
+	color:#000;
+	line-height:90px;
+}
+.alert .alert_con .btn{
+	padding:3px 10px;
+	color:#fff;
+	cursor:pointer;
+	background:#72D1FF;
+	border:1px solid #72D1FF;
+	border-radius:4px;
+}
+.alert .alert_con .btn:hover{
+	background:#4FB2EF;
+	border:1px solid #4FB2EF;
+	border-radius:4px;
+}
+

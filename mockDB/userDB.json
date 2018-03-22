@@ -1,0 +1,36 @@
+{
+  "userList": {
+    "total": 3,
+    "userLists": [{
+      "username": "admin",
+      "name": "张三",
+      "email": "xxxxxxxxxxx@163.com",
+      "code": "2012011161",
+      "smo": true,
+      "opc": true,
+      "smpwo": true,
+      "pdod": true,
+      "ID": "001"
+    },{
+      "username": "admin",
+      "name": "张三",
+      "email": "xxxxxxxxxxx@163.com",
+      "code": "2012011161",
+      "smo": true,
+      "opc": true,
+      "smpwo": true,
+      "pdod": true,
+      "ID": "002"
+    },{
+      "username": "admin",
+      "name": "张三",
+      "email": "xxxxxxxxxxx@163.com",
+      "code": "2012011161",
+      "smo": true,
+      "opc": true,
+      "smpwo": true,
+      "pdod": true,
+      "ID": "003"
+    }]
+  }
+}

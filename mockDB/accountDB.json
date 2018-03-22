@@ -1,0 +1,13 @@
+{
+  "user": {
+    "userName": "zhangsan",
+    "admin": true,
+    "name": "张三",
+    "email": "727935886@qq.com",
+    "code": "2220160571",
+    "smo": true,
+    "opc": true,
+    "pdod": true,
+    "smpwo": true
+  }
+}
